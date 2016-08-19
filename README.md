@@ -1,3 +1,7 @@
+## Introduction :
+
+A demo jetty embeded web app project
+
 ## Usage :
 
 ```
@@ -15,4 +19,4 @@ cd jetty-embeded-webapp-demo/bin
 
 On Windows :
 
-follow the same steps but finally run `start.bat` 
+follow the same steps but finally run `start.bat`
