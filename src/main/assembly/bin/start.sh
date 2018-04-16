@@ -15,6 +15,6 @@ if [ -z "$JAVA_HOME" ] ; then
 		exit 1
 	fi
 RUN_CMD="\"$JAVA_HOME/bin/java\""
-RUN_CMD="$RUN_CMD -jar ../jetty-embeded-webapp-demo.war
+RUN_CMD="$RUN_CMD -jar ../jetty-embeded-webapp-demo.war"
 #echo $RUN_CMD
 eval $RUN_CMD
